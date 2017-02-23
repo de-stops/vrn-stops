@@ -1,6 +1,6 @@
 # vrn-stops
 
-This is a simple script to download all [VRN](https://www.vrn.de/) stops as [GTFS-compatible CSV](https://developers.google.com/transit/gtfs/reference/stops-file).
+This is a simple script to download all [VRN](https://www.vrn.de) stops as [GTFS-compatible CSV](https://developers.google.com/transit/gtfs/reference/stops-file).
 
 The script uses the following endpoint:
 
@@ -14,7 +14,7 @@ The script produces CSV output in the following format:
 
 ```
 "stop_id","stop_name","stop_lon","stop_lat","stop_code"
-"6012351","Waldmannshofen, Ort",10.0677391295,49.5331134657,"de:8128:12351"
+"6012723","Königheim, Turnhalle",9.6034833888,49.618468457199995,"de:8128:12723"
 ```
 
 # Usage
